@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"barbbattle","characterIndex":0,"characterName":"barbwalk","classId":1,"equips":[1,0,2,7,0],"faceIndex":0,"faceName":"barbface","traits":[],"initialLevel":16,"maxLevel":99,"name":"Brian","nickname":"Brian","note":"","profile":"A warrior of great strength who was lost to the ages, \nbut has returned to destroy thots."},
+{"id":2,"battlerName":"rogbattle","characterIndex":0,"characterName":"rogwalk","classId":2,"equips":[2,0,8,3,0],"faceIndex":0,"faceName":"rogface","traits":[],"initialLevel":16,"maxLevel":99,"name":"Jacob","nickname":"Jacob","note":"","profile":"A quick and skilled rogue who is a master of \nthe night. He is adept in stabbing and poison."},
+{"id":3,"battlerName":"wizbattle","characterIndex":0,"characterName":"wizwalk","classId":3,"equips":[3,0,8,6,5],"faceIndex":0,"faceName":"wiz2","traits":[],"initialLevel":16,"maxLevel":99,"name":"Ricky","nickname":"Ricky","note":"","profile":"A man who lost his mind to irony in the ages \npast, no one knows his true outlook."},
+{"id":4,"battlerName":"clebattle","characterIndex":0,"characterName":"clewalk","classId":4,"equips":[4,0,8,3,4],"faceIndex":0,"faceName":"cleface","traits":[],"initialLevel":15,"maxLevel":99,"name":"Cole","nickname":"Cole","note":"","profile":"A legless priest who's overall innocence and \nkindheartedness heals the group. Honesty here."}
+]

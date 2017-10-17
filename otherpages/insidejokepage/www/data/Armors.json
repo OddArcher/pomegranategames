@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Not Being A Wuss","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"Broken horn, dank as heck.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Barbarian Hat","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"Best clothing.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Hoodie","note":"","params":[0,0,0,10,0,0,0,0],"price":999},
+{"id":4,"atypeId":1,"description":"From some thing he's into. \nWorld of warcraft or somthing","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":20},
+{"id":5,"atypeId":1,"description":"ugh","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":1,"name":"Depression","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":2,"description":"You know I had to do it.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"National Honor Society Robe","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":1,"description":"Read the title.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Just A Shirt","note":"","params":[0,0,0,0,0,0,0,0],"price":20},
+{"id":8,"atypeId":1,"description":"Comes free with a hoodie. But RPG maker\n doesn't have it in their character creator so whatever.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Hood","note":"","params":[0,0,0,10,0,0,0,0],"price":300}
+]
